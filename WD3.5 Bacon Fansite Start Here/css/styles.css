@@ -4,16 +4,21 @@ h1 {
   font-size: 200px;
 }
 
-/*img{
+img{
   background-color: red;
 
 }
-*/
-/**************Class Selectors********/
+
+/**************Class Selectors********Class can be applied to multiple items**/
 .bacon {
   background-color: green;
 }
 
 .veggie{
   background-color: red;
+}
+
+/***********Id Selectors********these are specific**/
+#heading {
+  color:blue;
 }
